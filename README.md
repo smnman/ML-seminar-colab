@@ -13,7 +13,7 @@ The final and complete version of the project notebook is:
 
 🔬 PredictingInfantHealthRisks.ipynb
 
-Earlier notebooks (e.g., ML_seminar_notebook.ipynb) represent preliminary experiments and are not the finalized version of the study.
+Earlier notebooks (e.g., ML_seminar_notebook.ipynb - deleted from the repository) represent preliminary experiments and are not the finalized version of the study.
 
 📂 Repository Structure
 
